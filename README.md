@@ -50,11 +50,6 @@ Estudiante de último año del Grado Superior en **Desarrollo de Aplicaciones Mu
 
 ---
 
-## Actividad en GitHub
-![Estadísticas de Giselle](https://github-readme-stats.vercel.app/api?username=Giselle&show_icons=true&theme=distinguished&hide_border=true&count_private=true)
-
----
-
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselle-santos-andrade-78194b3b3/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gisellesantosdev@gmail.com)
